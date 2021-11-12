@@ -1,2 +1,3 @@
 # SecondREP
-Hi everyone! My name is Sunishka Malviya.
+Hello world! My name is Sunishka Malviya.
+I am a second year Engineering student.
